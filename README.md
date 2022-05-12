@@ -8,7 +8,7 @@
 
 📰 My [publications](https://scholar.google.de/citations?user=DEtPmaYAAAAJ) on Google Scholar
 
-💥 One of my favorite books: [Fundamentals of Data Viz by Claus O. Wilke](https://clauswilke.com/dataviz/)
+💥 One of my favorite data viz books: [Fundamentals of Data Viz](https://clauswilke.com/dataviz/) by Claus O. Wilke
 
 📦 Latest package? [delayedflow](https://modche.github.io/delayedflow/) for advanced baseflow separation with streamflow data
 

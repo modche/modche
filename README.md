@@ -2,7 +2,8 @@
 
 👨‍🔬 Hydrologist, Data Scientists, Data Visualizations
 
-🏛️ Working at University of [Freiburg](https://en.wikipedia.org/wiki/Freiburg_im_Breisgau) (Germany) as Post-Doc and Lecturer
+🏛️ Working at University of [Freiburg](https://en.wikipedia.org/wiki/Freiburg_im_Breisgau) (Germany) as Post-Doc and Lecturer (until 2022),
+now at LUBW Karlsruhe
 
 📧 michael.stoelzle@hydro.uni-freiburg.de 
 
@@ -14,4 +15,4 @@
 
 🌈 Get rid of the ugly rainbow color map? Yeah! See our paper on [Hyd. Earth Sys. Sciences](https://hess.copernicus.org/articles/25/4549/2021/hess-25-4549-2021.html)
 
-2022-05-10
+2023-01-13
